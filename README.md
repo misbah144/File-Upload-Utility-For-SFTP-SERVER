@@ -1,4 +1,4 @@
-# File-Transfer-Utility-For-SFTP-SERVER
+# File-Upload-Utility-For-SFTP-SERVER
 
 
 1) This is a C# FILE TRANSFER APPLICATION  application for sftp remote server  powered by Renchi.dll library that proivides that provides the main
